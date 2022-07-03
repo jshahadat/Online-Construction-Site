@@ -1,0 +1,15 @@
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    background-color: rgb(13, 231, 53);
+    font-weight: 700;
+    width: 10%;
+    font-size: large;
+    font-family: serif;
+
+}
+div{
+    background-color: deepskyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
